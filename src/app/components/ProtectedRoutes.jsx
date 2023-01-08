@@ -14,11 +14,6 @@ const ProtectedRoutes = () => {
   }
 
 
-  return (
-    <div>
-        <h1>Hello is ProtectedRoutes</h1>
-    </div>
-  )
 }
 
 export default ProtectedRoutes
